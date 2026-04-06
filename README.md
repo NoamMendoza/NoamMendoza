@@ -1,6 +1,6 @@
 <div align="center">
   <h1>¡Hola! Soy Noam Mendoza 👨‍💻</h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Ingeniero+en+Sistemas+Computacionales;Java+Backend+Developer;Entusiasta+del+Clean+Architecture+y+Cloud" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Ingeniero+en+Sistemas+Computacionales;Java+Backend+Developer;Entusiasta+Code+y+Cloud" alt="Typing SVG" />
 </div>
 
 <br>
