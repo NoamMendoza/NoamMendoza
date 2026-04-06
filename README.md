@@ -8,9 +8,9 @@
 ### 👨‍🚀 Sobre Mí
 Soy un desarrollador enfocado en el ecosistema **Java / Spring Boot** con un fuerte interés en la creación de arquitecturas limpias y escalables. Me mantengo en aprendizaje continuo (aprovechando plataformas como Coursera) para integrar las mejores prácticas de la industria, metodologías de trabajo modernas y soluciones en la nube. 
 
-* 🔭 **Actualmente trabajando en:** **NexusPay** (Pasarela de pagos robusta) y **Smart Clinic Backend**.
+* 🔭 **Actualmente trabajando en:** **Api Gateway De Pagos** (Pasarela de pagos robusta).
 * 🌱 **Aprendiendo y aplicando:** Arquitectura Cloud (AWS / GCP), Software Testing y Metodologías Ágiles (Scrum).
-* ⚡ **Fuera del código:** Entreno **Judo / BJJ**, diseño piezas para impresión 3D en mi HomeLab y busco la mejor comida picante de Yucatán.
+* ⚡ **Fuera del código:**.
 
 ---
 
