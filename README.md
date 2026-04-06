@@ -54,7 +54,7 @@ Soy un desarrollador enfocado en el ecosistema **Java / Spring Boot** con un fue
 <br>
 
 <div align="center">
-  <a href="https://linkedin.com/in/TU_USUARIO_AQUI">
+  <a href="https://linkedin.com/in/noam-mendoza-maturin">
     <img src="https://img.shields.io/badge/Conecta_en_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
