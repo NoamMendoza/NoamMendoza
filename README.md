@@ -40,9 +40,8 @@
 
 ### 🚀 Proyectos Destacados
 
-* **NexusPay:** Pasarela de pagos robusta implementada con Java y Spring Boot, aplicando principios de Clean Architecture y patrones de diseño.
-* **Smart Clinic Backend:** Sistema de gestión para clínicas enfocado en la eficiencia y seguridad de datos.
-* **HomeLab & 3D Design:** Experimentando con infraestructura local (DeskPi) y diseño de piezas funcionales en FreeCAD.
+* **Api Gateway De Pagos:** Pasarela de pagos robusta implementada con Java y Spring Boot, aplicando principios de Clean Architecture y patrones de diseño.
+* **Smart Clinic Backend (En construccion):** Sistema de gestión para clínicas enfocado en la eficiencia y seguridad de datos.
 
 ---
 
